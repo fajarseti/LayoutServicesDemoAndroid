@@ -1,0 +1,4 @@
+#Wed Nov 01 15:11:41 ICT 2017
+base.0=D\:\\Fajar\\ServicesDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Fajar\\ServicesDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
